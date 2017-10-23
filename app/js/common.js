@@ -31,7 +31,7 @@
 
     $(document).ready(function() {
 
-        fullHeight();
+        // fullHeight();
 
         $('.hamburger').click(function () {
             $('#menu-desktop').toggleClass('open');
